@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to explor
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, Java, 
-- **Web Development:** HTML, CSS, React, Node.js, express.js
-- **Databases:** MySQL, MongoDB
+- **Web Development:** HTML, CSS, Bootstrap, React, Node.js, express.js
+- **Databases:** MongoDB
 - **Tools:** Git, VS Code
 
 ## 🚀 Projects
@@ -14,8 +14,8 @@ Here are some of my favorite projects:
 ### [E-Commerce-coding-service]()
 Description: It's E-commerce coding service website. which is created with Bootstrap.
 
-### [Another Project]()
-Description: Brief description of what the project does and technologies used.
+### [Task-Manager-App]()
+Description: This website helps you track your tasks. It is built with Node.js and ECMAScript (JavaScript). The focus of this website is primarily on the backend development.
 
 ## 📫 How to reach me
 - **Email:** [abrarilhamprogrammer@gmail.com]
